@@ -1,1 +1,54 @@
-Hello Capgemini
+What do they do? How much do they earn? Will that amount suffice? 
+My Father has a CNC Engraving Business which includes 
+Whereas my Mother has a PVC Business 
+
+They have a combined annual income of 21 lakh rupees.
+
+Along with the income they have savings of 56 lakhs (68,000 $) and assets worth 3 crores (3,60,000 $).
+I have also secured a loan from HDFC worth 50 lakhs (60,000 $) and scholarship from ASU of 10,000 $
+
+Why did you choose the course you are applying for? 
+I am really passionate about Computer Science. During my undergraduate studies in Information Technology, I had the opportunity to explore various domains of Computer Science, including Data Science, Cybersecurity, and Cloud Computing. However, these courses only provided me with a basic and introductory understanding of these subjects. To explore deeper into these areas and gain expertise I decided to pursue a Masters degree in Computer Science. Acquiring comprehensive knowledge will enable me to make significant contributions in the field.
+
+What will you do after graduating? 
+What are your plans if your student visa is not approved? 
+Why should I approve your VISA? 
+
+Why are you going to the US? 
+I want to study  in the US because it has some of the best universities in the world and is a popular study destination for higher education. American universities offer a flexible education system that allows students to choose subjects and professors that align with their interests and goals. Additionally, these institutions are renowned for their top-ranking programs. Obtaining a degree from one of these world-class institutions will provide me with a competitive edge in the Indian job market. By studying in the US, I would gain a global perspective and have the opportunity to engage with a diverse community of students from around the world.
+
+Why don’t you want to study in your home country? 
+Although my country is reputed globally for education it cannot be compared to the US education system. US has some of the best universities in the world and is a popular study destination for higher education. American universities offer a flexible education system that allows students to choose subjects and professors that align with their interests and goals. Additionally, these institutions are renowned for their top-ranking programs. Obtaining a degree from one of these world-class institutions will provide me with a competitive edge in the Indian job market. By studying in the US, I would gain a global perspective and have the opportunity to engage with a diverse community of students from around the world.
+
+Which university? Which course are you going for? 
+I will be attending Arizona State University to pursue a Master's degree in Computer Science.
+
+How many Admits and Rejects have you received? 
+I have received Admits from 5 universities and reject from 2 universities.
+
+Admit : Arizona State University
+	   North Carolina State University
+	   Northeastern
+	   SUNY Buffalo
+	   University of Texas at Dallas
+
+Reject : Purdue University
+	    Texas A&M University
+	
+What is your GPA, GRE and TOEFL score? 
+I earned an undergraduate GPA of 9.81. My GRE score is 317 and TOEFL score is 102.
+
+Who is sponsoring you? 
+My parents will be sponsoring my education and cost of living in the US.
+
+
+Why have you decided to go to school now, instead of starting a career? 
+I have decided to pursue further education because the Masters course I have chosen will greatly enhance my knowledge in the field of Computer Science. Upon completion, I will have acquired in-depth knowledge and gained valuable hands-on experience. Obtaining a Masters degree from a prestigious institution like Arizona State University will provide me with a global outlook and make me stand out when applying for jobs, particularly in India. The recognition and reputation associated with ASU will boost my career prospects in the field of Computer Science.
+
+Which schools rejected you and why?
+I was rejected from Texas A&M and Purdue Univ. My rejection was due to the fact that they had very limited seats and they didn't find me a good fit for their program.
+ 
+What is the name of the college or university you want to study in and why did you choose it?
+I chose to study at Arizona State University due to its flexible curriculum, offering a diverse range of electives such as Data Science, Machine Learning, Cloud Computing, and Cybersecurity. Additionally, the university has some of the best faculty members in these fields. I am particularly interested in conducting research under the guidance of Dr. Samira Gayekheloo, an expert in the areas of Data Science and Machine Learning. I have even enrolled in her Data Mining course as it aligns with my field of interest and to deepen my knowledge. Furthermore, Arizona State University holds a high rank among universities, making it an ideal choice for my academic pursuits.
+
+
